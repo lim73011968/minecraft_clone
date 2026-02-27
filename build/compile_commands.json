@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/WorkingFile/Clang/OpenGL/OPENGL2/build",
+  "command": "C:\\Users\\chanl\\AppData\\Local\\w64devkit\\bin\\cc.exe  @CMakeFiles/glad.dir/includes_C.rsp  -o CMakeFiles\\glad.dir\\C_\\WorkingFile\\Clang\\lib\\glad\\src\\glad.c.obj -c C:\\WorkingFile\\Clang\\lib\\glad\\src\\glad.c",
+  "file": "C:/WorkingFile/Clang/lib/glad/src/glad.c",
+  "output": "CMakeFiles/glad.dir/C_/WorkingFile/Clang/lib/glad/src/glad.c.obj"
+},
+{
+  "directory": "C:/WorkingFile/Clang/OpenGL/OPENGL2/build",
+  "command": "C:\\Users\\chanl\\AppData\\Local\\w64devkit\\bin\\c++.exe  @CMakeFiles/prog.dir/includes_CXX.rsp  -o CMakeFiles\\prog.dir\\src\\main.cpp.obj -c C:\\WorkingFile\\Clang\\OpenGL\\OPENGL2\\src\\main.cpp",
+  "file": "C:/WorkingFile/Clang/OpenGL/OPENGL2/src/main.cpp",
+  "output": "CMakeFiles/prog.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/WorkingFile/Clang/OpenGL/OPENGL2/build",
+  "command": "C:\\Users\\chanl\\AppData\\Local\\w64devkit\\bin\\c++.exe  @CMakeFiles/prog.dir/includes_CXX.rsp  -o CMakeFiles\\prog.dir\\src\\camera.cpp.obj -c C:\\WorkingFile\\Clang\\OpenGL\\OPENGL2\\src\\camera.cpp",
+  "file": "C:/WorkingFile/Clang/OpenGL/OPENGL2/src/camera.cpp",
+  "output": "CMakeFiles/prog.dir/src/camera.cpp.obj"
+},
+{
+  "directory": "C:/WorkingFile/Clang/OpenGL/OPENGL2/build",
+  "command": "C:\\Users\\chanl\\AppData\\Local\\w64devkit\\bin\\c++.exe  @CMakeFiles/prog.dir/includes_CXX.rsp  -o CMakeFiles\\prog.dir\\src\\stb_image.cpp.obj -c C:\\WorkingFile\\Clang\\OpenGL\\OPENGL2\\src\\stb_image.cpp",
+  "file": "C:/WorkingFile/Clang/OpenGL/OPENGL2/src/stb_image.cpp",
+  "output": "CMakeFiles/prog.dir/src/stb_image.cpp.obj"
+},
+{
+  "directory": "C:/WorkingFile/Clang/OpenGL/OPENGL2/build",
+  "command": "C:\\Users\\chanl\\AppData\\Local\\w64devkit\\bin\\c++.exe  @CMakeFiles/prog.dir/includes_CXX.rsp  -o CMakeFiles\\prog.dir\\src\\chunck.cpp.obj -c C:\\WorkingFile\\Clang\\OpenGL\\OPENGL2\\src\\chunck.cpp",
+  "file": "C:/WorkingFile/Clang/OpenGL/OPENGL2/src/chunck.cpp",
+  "output": "CMakeFiles/prog.dir/src/chunck.cpp.obj"
+},
+{
+  "directory": "C:/WorkingFile/Clang/OpenGL/OPENGL2/build",
+  "command": "C:\\Users\\chanl\\AppData\\Local\\w64devkit\\bin\\c++.exe  @CMakeFiles/prog.dir/includes_CXX.rsp  -o CMakeFiles\\prog.dir\\src\\terrain.cpp.obj -c C:\\WorkingFile\\Clang\\OpenGL\\OPENGL2\\src\\terrain.cpp",
+  "file": "C:/WorkingFile/Clang/OpenGL/OPENGL2/src/terrain.cpp",
+  "output": "CMakeFiles/prog.dir/src/terrain.cpp.obj"
+},
+{
+  "directory": "C:/WorkingFile/Clang/OpenGL/OPENGL2/build",
+  "command": "C:\\Users\\chanl\\AppData\\Local\\w64devkit\\bin\\c++.exe  @CMakeFiles/prog.dir/includes_CXX.rsp  -o CMakeFiles\\prog.dir\\src\\infinite_generator.cpp.obj -c C:\\WorkingFile\\Clang\\OpenGL\\OPENGL2\\src\\infinite_generator.cpp",
+  "file": "C:/WorkingFile/Clang/OpenGL/OPENGL2/src/infinite_generator.cpp",
+  "output": "CMakeFiles/prog.dir/src/infinite_generator.cpp.obj"
+}
+]

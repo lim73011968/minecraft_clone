@@ -1,0 +1,2 @@
+C:\Users\chanl\AppData\Local\w64devkit\bin\ar.exe qc libglad.a CMakeFiles/glad.dir/C_/WorkingFile/Clang/lib/glad/src/glad.c.obj
+C:\Users\chanl\AppData\Local\w64devkit\bin\ranlib.exe libglad.a

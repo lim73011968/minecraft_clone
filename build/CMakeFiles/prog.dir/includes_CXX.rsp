@@ -1,0 +1,1 @@
+-I"C:/WorkingFile/Clang/lib/glm-master" -IC:/WorkingFile/Clang/OpenGL/OPENGL2/vendor -I"C:/Users/chanl/AppData/Local/SDL3-3.2.26/x86_64-w64-mingw32/include" -IC:/WorkingFile/Clang/OpenGL/OPENGL2/../../lib/glad/include

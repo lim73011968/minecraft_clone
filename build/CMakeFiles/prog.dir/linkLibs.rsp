@@ -1,0 +1,1 @@
+ "C:/Users/chanl/AppData/Local/SDL3-3.2.26/x86_64-w64-mingw32/lib/libSDL3.dll.a" -lopengl32 libglad.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

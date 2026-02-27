@@ -1,0 +1,4 @@
+C:/WorkingFile/Clang/OpenGL/OPENGL2/build/CMakeFiles/glad.dir
+C:/WorkingFile/Clang/OpenGL/OPENGL2/build/CMakeFiles/prog.dir
+C:/WorkingFile/Clang/OpenGL/OPENGL2/build/CMakeFiles/edit_cache.dir
+C:/WorkingFile/Clang/OpenGL/OPENGL2/build/CMakeFiles/rebuild_cache.dir
