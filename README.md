@@ -13,5 +13,5 @@ This is my first graphics project and it is a minecraft clone. It is made with o
    
 ## Run
 
-1. go to build floder
+1. go to build folder
 2. click prog.exe file
