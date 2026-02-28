@@ -20,6 +20,11 @@ add_executable(prog
     ./src/terrain.cpp
     ./src/infinite_generator.cpp
 )
+set(ASSET_DIRS "${CMAKE_CURRENT_SOURCE_DIR}/shader" "${CMAKE_CURRENT_SOURCE_DIR}/texture")
+
+foreach(ASSET_DIR ${ASSET_DIRS})
+    file(COPY ${ASSET_DIR} DESTINATION ${CMAKE_CURRENT_BINARY_DIR})
+endforeach()
 
 target_include_directories(prog
     PRIVATE 
